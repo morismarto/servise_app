@@ -1,2 +1,4 @@
-def main():
-    print('Hi')
+def main(a):
+    print(a)
+a = 'hi'
+main(a)
